@@ -115,7 +115,7 @@ main {
     align-items: center;
 }
 
-@media (min-width: 376px) {
+@media (min-width: 768px) {
     .hero {
         /* flex-flow: row wrap; */
         gap: 40px;
@@ -230,7 +230,7 @@ main {
     width: 100%;
 }
 
-@media (min-width: 376px) {
+@media (min-width: 768px) {
     .footer {
         flex-flow: row-reverse wrap;
         justify-content: space-between;
